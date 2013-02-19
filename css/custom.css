@@ -1,0 +1,24 @@
+.ui-footer h4.ui-title {
+	font-size: 11px;
+	margin-top: 0.6em;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0.6em;
+}
+
+h3{
+	margin-bottom: 0;	
+}
+
+h3 + p{
+	margin-top: 0;	
+}
+
+.ui-btn-active {
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#fadb4f), to(#f90));
+	background-image: -webkit-linear-gradient(#fadb4f, #f90);
+	background-image: -moz-linear-gradient(#fadb4f, #f90);
+	background-image: -ms-linear-gradient(#fadb4f, #f90);
+	background-image: -o-linear-gradient(#fadb4f, #f90);
+	background-image: linear-gradient(#fadb4f, #f90);
+}
